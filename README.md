@@ -11,4 +11,4 @@ It's a simple application that works with https://rickandmortyapi.com/api/charac
   2. Install dependensies with ``` npm i ```
   3. Run application in terminal with ``` npm run dev ```
   ## Screen shots
-  
+  ![img1](https://github.com/user-attachments/assets/fcc2bfe4-ec04-4b5c-996a-5dbadaeb6823)
